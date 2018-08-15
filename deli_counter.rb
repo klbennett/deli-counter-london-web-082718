@@ -13,6 +13,8 @@ end
 end
 
 def now_serving(katz_deli)
-  if
+  if katz_deli.length == 0 
+    
+  else
   puts "Now serving #{katz_deli.unshift}."
 end
