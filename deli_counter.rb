@@ -13,5 +13,5 @@ end
 end
 
 def now_serving(katz_deli)
-  puts "Now serving #{katz_deli.unshift().}"
+  puts "Now serving #{katz_deli.unshift}."
 end
