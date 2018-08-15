@@ -21,4 +21,5 @@ end
 end
 
 def take_a_number(katz_deli, name)
-    puts "Hello #{name}. You are #{"
+    puts "Hello #{name}. You are #{katz_deli.length} in line."
+  end
