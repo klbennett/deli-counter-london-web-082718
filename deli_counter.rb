@@ -13,5 +13,6 @@ end
 end
 
 def now_serving(katz_deli)
+  if
   puts "Now serving #{katz_deli.unshift}."
 end
