@@ -11,4 +11,7 @@ def line(katz_deli)
   puts "The line is currently: #{current_line.join(" ")}"
 end
 end
+
+def now_serving(katz_deli)
+  puts "#{katz_deli"
       
